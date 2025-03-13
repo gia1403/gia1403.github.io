@@ -17,8 +17,8 @@ html {
 .row {
     max-width: 960px;
     margin: 0 auto;
-    background-color: #42a8c0;
-    box-shadow: -3px 3px 3px 0px rgba(215,108,130, 0.9);
+    background-color: #D76C82;
+    box-shadow: -3px 3px 3px 0px rgba(0,0,0, 0.9);
 }
 
 .clearfix:after {
