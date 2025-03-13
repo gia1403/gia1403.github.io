@@ -18,7 +18,7 @@ html {
     max-width: 960px;
     margin: 0 auto;
     background-color: #42a8c0;
-    box-shadow: -3px 3px 3px 0px rgba(200,200,200, 0.9);
+    box-shadow: -3px 3px 3px 0px rgba(215,108,130, 0.9);
 }
 
 .clearfix:after {
@@ -39,7 +39,7 @@ html {
 }
 
 .personal-header {
-    background-color: rgba(50, 0, 0, 0.2);
+    background-color: rgba(176,48,82, 0.2);
     padding: 30px 0;
 }
 
